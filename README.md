@@ -1,8 +1,5 @@
 # 💫 About Me:
 I'm Georgina Ayala, a passionate Web Developer based in Vancouver, BC, Canada, with a strong focus on Frontend development. Here's a bit about me:<br><be>
-🔭 I’m currently working on launching a Next-Generation Portfolio Platform, aiming to empower 100 students by providing a distinctive platform using Express, Next.js, TypeScript, and PostgreSQL.<be>
-🌱 I’m currently expanding my skills in Node.js, database management, and project management while honing my UI/UX design abilities.<be>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geo.ayalamung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geo-ayalamung) 
