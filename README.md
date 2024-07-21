@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Georgina Ayala, a passionate Web Developer based in Vancouver, BC, Canada, with a strong focus on Frontend development. <br><be>
+Hi guys! I'm Geo!<br>
+A passionate Web Developer based in Vancouver, BC, Canada, with a strong focus on Frontend development. With a background in architecture, I bring a unique blend of design aesthetics and technical expertise to every project I work on.<br><be>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geo.ayalamung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geo-ayalamung) 
