@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi guys! I'm Geo!<br>
-A passionate Web Developer based in Vancouver, BC, Canada, with a strong focus on Frontend development.<br> With a background in architecture, I bring a unique blend of design aesthetics and technical expertise to every project I work on.<br><be>
+A Web Developer based in Vancouver, Canada, focusing on Frontend development.<br> With a background in architecture, I mix design aesthetics and tech skills in all my projects. I'm currently exploring (studying) mobile applications for iOS and Android.<br><be>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/geo.ayalamung) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geo-ayalamung) 
