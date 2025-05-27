@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hi guys! I'm Geo!<br>
-A Web Developer based in Vancouver, Canada, focusing on Frontend development.<br> With a background in architecture, I mix design aesthetics and tech skills in all my projects. I'm currently exploring mobile applications for iOS and Android.<br><be>
+I’m a frontend developer specializing in web and mobile applications, currently based in Vancouver. My main focus is React Native, but I’ve also worked on fullstack web projects, tackling both frontend and backend challenges. I enjoy transforming ideas into user-friendly, well-designed digital experiences.
+
+Right now, I’m part of the team at Zemply, where I’m developing an app to simplify the home buying and renting process. My role involves building and optimizing the web platform while also contributing to the iOS and Android mobile apps. I get hands-on with both the code and the design, aiming for a seamless and visually appealing user experience.
+
+Before Zemply, I worked on various web projects, from landing pages to more complex applications with backend logic. One standout project was an award-winning portfolio platform designed for UI/UX students, helping them take creative control over their online presence.
+
+I’m always excited to tackle new challenges where technology and design come together. Let’s connect and build something awesome!.<br><be>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/geo-ayalamung) 
